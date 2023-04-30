@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/item_binnacle"
+        android:title="@string/hint_binnacle" />
+    <item
+        android:id="@+id/item_web_view"
+        android:title="@string/hint_web_view" />
+    <item
+        android:id="@+id/item_data_base"
+        android:title="@string/hint_data_base" />
+</menu>

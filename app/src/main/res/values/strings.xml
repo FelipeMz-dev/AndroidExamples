@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyExamples</string>
+    <string name="hint_save">Save</string>
+    <string name="hint_url">Digite el url</string>
+    <string name="hint_binnacle">Binnacle</string>
+    <string name="hint_web_view">Web View</string>
+    <string name="hint_db_id">Product ID</string>
+    <string name="hint_db_name">Product Name</string>
+    <string name="hint_db_price">Product Price</string>
+    <string name="hint_db_create">Create</string>
+    <string name="hint_db_read">Read</string>
+    <string name="hint_db_update">Update</string>
+    <string name="hint_db_delete">Delete</string>
+    <string name="hint_data_base">Data Base</string>
+    <string name="search">Search</string>
+    <string name="button_photographer">photographer</string>
+</resources>
